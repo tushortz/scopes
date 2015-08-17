@@ -1,0 +1,15 @@
+INFORM
+======
+
+comment.line.exclamation.inform
+constant.character.escape.inform
+constant.numeric.inform
+entity.name.function.inform
+keyword.control.inform
+keyword.other.directive.inform
+meta.function.inform
+punctuation.definition.comment.inform
+punctuation.definition.string.begin.inform
+punctuation.definition.string.end.inform
+string.quoted.double.inform
+string.quoted.single.inform

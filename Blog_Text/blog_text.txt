@@ -1,0 +1,9 @@
+BLOG_TEXT
+=========
+
+keyword.other.blog
+meta.header.blog
+meta.separator.blog
+punctuation.separator.key-value.blog
+string.unquoted.blog
+text.plain

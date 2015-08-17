@@ -1,0 +1,12 @@
+SUBVERSION_COMMIT_MESSAGE
+=========================
+
+markup.deleted.svn
+markup.inserted.svn
+meta.bullet-point.light
+meta.bullet-point.star
+meta.bullet-point.strong
+meta.scope.changed-files.svn
+meta.separator.svn
+punctuation.definition.item.subversion-commit
+svn-commit.tmp

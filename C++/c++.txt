@@ -1,0 +1,16 @@
+C++
+===
+
+entity.name.function.c
+keyword.control.c++
+keyword.operator.c++
+keyword.operator.cast.c++
+meta.function.constructor.c++
+meta.function.destructor.c++
+meta.function.destructor.prototype.c++
+punctuation.definition.parameters.c
+storage.modifier.c++
+storage.type.c++
+storage.type.template.c++
+variable.language.c++
+variable.other.readwrite.member.c++

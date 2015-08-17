@@ -1,0 +1,16 @@
+LIGHTTPD
+========
+
+comment.line.number-sign.lighttpd-config
+constant.character.escape.quote.lighttpd-config
+constant.numeric.lighttpd-config
+invalid.illegal.semicolon-at-end-of-line.lighttpd-config
+punctuation.definition.comment.lighttpd-config
+punctuation.definition.string.begin.lighttpd-config
+punctuation.definition.string.end.lighttpd-config
+punctuation.definition.variable.lighttpd-config
+punctuation.separator.key-value.lighttpd-config
+string.quoted.double.lighttpd-config
+string.regexp.lighttpd-config
+support.constant.name.lighttpd-config
+variable.language.lighttpd-config

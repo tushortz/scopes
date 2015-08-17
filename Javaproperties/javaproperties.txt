@@ -1,0 +1,6 @@
+JAVAPROPERTIES
+==============
+
+keyword.other.java-props
+punctuation.definition.comment.java-props
+punctuation.separator.key-value.java-props

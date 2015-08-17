@@ -1,0 +1,10 @@
+LATEX_BEAMER
+============
+
+meta.function.environment.frame.latex
+punctuation.definition.arguments.begin.latex
+punctuation.definition.arguments.end.latex
+punctuation.definition.function.latex
+support.function.be.latex
+support.function.with-arg.latex
+variable.parameter.function.latex

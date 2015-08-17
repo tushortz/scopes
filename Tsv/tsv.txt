@@ -1,0 +1,8 @@
+TSV
+===
+
+meta.tabular.row.header.tsv
+meta.tabular.row.tsv
+meta.tabular.table.tsv
+punctuation.separator.table.row.tsv
+punctuation.separator.tabular.field.tsv

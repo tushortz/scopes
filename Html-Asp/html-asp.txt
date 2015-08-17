@@ -1,0 +1,7 @@
+HTML-ASP
+========
+
+punctuation.definition.comment.asp
+punctuation.section.embedded.begin.asp
+punctuation.section.embedded.end.asp
+source.asp.embedded.html

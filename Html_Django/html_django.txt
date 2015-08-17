@@ -1,0 +1,11 @@
+HTML_DJANGO
+===========
+
+entity.other.django.tagbraces
+keyword.control.django.template
+keyword.operator.django.template
+meta.scope.django.template.tag
+string.other.django.template.tag
+string.unquoted.django.template.tag
+support.function.filter.django
+variable.other.django.template

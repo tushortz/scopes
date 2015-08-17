@@ -1,0 +1,14 @@
+REGEXP
+======
+
+constant.character.escape.regexp
+constant.other.assertion.regexp
+constant.other.range.regexp
+keyword.control.anchors.regexp
+keyword.control.character-class.regexp
+keyword.control.set.regexp
+keyword.operator.intersection.regexp
+keyword.operator.quantifier.regexp
+keyword.operator.regexp
+keyword.other.backref-and-recursion.regexp
+string.regexp.group

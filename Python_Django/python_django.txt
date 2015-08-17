@@ -1,0 +1,7 @@
+PYTHON_DJANGO
+=============
+
+support.function.django.view
+support.other.django.module
+support.type.django.model
+variable.other.django.settings

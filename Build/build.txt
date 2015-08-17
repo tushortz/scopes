@@ -1,0 +1,15 @@
+BUILD
+=====
+
+constant.character.entity.nant
+entity.name.tag.nant
+entity.other.attribute-name.nant
+invalid.illegal.bad-ampersand.nant
+meta.tag.nant
+punctuation.definition.comment.nant
+punctuation.definition.constant.nant
+punctuation.definition.string.begin.nant
+punctuation.definition.string.end.nant
+punctuation.definition.tag.nant
+string.quoted.double.nant
+string.quoted.single.nant

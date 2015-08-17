@@ -1,0 +1,14 @@
+ACTIVE4D_INI
+============
+
+comment.line.backtick.active4d-ini
+comment.line.double-backslash.continuation.active4d-ini
+comment.line.double-slash.active4d-ini
+constant.character.escape.active4d-ini
+constant.language.boolean.active4d-ini
+keyword.operator.active4d-ini
+punctuation.definition.comment.active4d-ini
+punctuation.definition.string.begin.active4d-ini
+punctuation.definition.string.end.active4d-ini
+string.quoted.double.active4d-ini
+support.constant.active4d-ini

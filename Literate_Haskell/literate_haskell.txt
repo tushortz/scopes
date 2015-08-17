@@ -1,0 +1,7 @@
+LITERATE_HASKELL
+================
+
+punctuation.definition.arguments.begin.latex
+punctuation.definition.arguments.end.latex
+punctuation.definition.function.latex
+support.function.be.latex

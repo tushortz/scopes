@@ -1,0 +1,16 @@
+RD_R_DOCUMENTATION
+==================
+
+keyword.other.author.rd
+keyword.other.examples.rd
+keyword.other.section.rd
+keyword.other.usage.rd
+markup.underline.link.rd
+meta.author.rd
+meta.examples.rd
+meta.section.rd
+meta.usage.rd
+punctuation.definition.arguments.begin.rd
+punctuation.definition.arguments.end.rd
+punctuation.definition.function.rd
+punctuation.definition.link.rd

@@ -1,0 +1,8 @@
+HTML_RAILS
+==========
+
+comment.line.number-sign.ruby
+punctuation.definition.comment.erb
+punctuation.definition.comment.ruby
+punctuation.section.embedded.ruby
+source.ruby.rails.embedded.html

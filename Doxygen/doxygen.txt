@@ -1,0 +1,8 @@
+DOXYGEN
+=======
+
+comment.block.doxygen
+comment.line.doxygen
+keyword.control.doxygen
+punctuation.definition.comment.doxygen
+punctuation.definition.keyword.doxygen

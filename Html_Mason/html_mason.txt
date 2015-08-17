@@ -1,0 +1,17 @@
+HTML_MASON
+==========
+
+entity.name.function
+keyword.control
+punctuation.section.embedded.perl.mason
+source.mason.args
+source.mason.component
+source.mason.component.block
+source.mason.methods
+source.mason.nesty
+source.mason.substitution
+source.perl.mason.block
+source.perl.mason.doc
+source.perl.mason.line
+string.quoted.single
+variable.other

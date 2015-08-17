@@ -1,0 +1,11 @@
+RUBY_ON_RAILS
+=============
+
+meta.rails.functional_test
+meta.rails.helper
+meta.rails.mailer
+meta.rails.model
+meta.rails.unit_test
+support.function.actionpack.rails
+support.function.activerecord.rails
+support.function.activesupport.rails

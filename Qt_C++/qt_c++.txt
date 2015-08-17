@@ -1,0 +1,7 @@
+QT_C++
+======
+
+storage.type.qt
+support.class.qt
+support.function.qt
+support.other.macro.qt

@@ -1,0 +1,16 @@
+SWIG
+====
+
+keyword.control.import.swig
+keyword.other.directive.inlinecode.swig
+keyword.other.directive.swig
+keyword.other.function-parameter.swig
+meta.preprocessor.macro.swig
+meta.preprocessor.swig
+punctuation.definition.keyword.swig
+punctuation.definition.preprocessor.swig
+punctuation.section.embedded.swig
+source.swig.codeblock
+storage.type.swig
+string.quoted.double.swig
+support.function.type.swig

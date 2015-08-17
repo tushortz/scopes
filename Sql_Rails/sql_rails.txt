@@ -1,0 +1,4 @@
+SQL_RAILS
+=========
+
+source.ruby.rails.embedded.sql

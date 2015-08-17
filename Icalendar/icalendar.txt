@@ -1,0 +1,10 @@
+ICALENDAR
+=========
+
+entity.name.section.icalendar
+iCalendar
+keyword.other.component-begin.icalendar
+keyword.other.component-end.icalendar
+punctuation.definition.string.begin.icalendar
+punctuation.definition.string.end.icalendar
+string.quoted.double.icalendar

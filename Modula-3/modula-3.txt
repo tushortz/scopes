@@ -1,0 +1,14 @@
+MODULA-3
+========
+
+comment.block.modula-3
+constant.character.escape.modula-3
+constant.language.modula-3
+constant.numeric.modula-3
+keyword.other.modula-3
+punctuation.definition.comment.modula-3
+punctuation.definition.string.begin.modula-3
+punctuation.definition.string.end.modula-3
+storage.type.modula-3
+string.quoted.double.modula-3
+string.quoted.single.modula-3

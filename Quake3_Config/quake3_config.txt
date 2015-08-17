@@ -1,0 +1,11 @@
+QUAKE3_CONFIG
+=============
+
+constant.character.escape.quake3
+constant.numeric.quake3
+keyword.other.quake3
+keyword.other.string-embedded.quake3
+punctuation.definition.comment.quake3
+punctuation.definition.string.begin.quake3
+punctuation.definition.string.end.quake3
+string.quoted.double.quake3

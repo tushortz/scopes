@@ -1,0 +1,9 @@
+S5
+==
+
+meta.header.s5
+meta.separator.handout.s5
+meta.separator.notes.s5
+meta.separator.slide.s5
+punctuation.separator.key-value.s5
+string.unquoted.s5
