@@ -1,0 +1,11 @@
+STRINGS_FILE
+============
+
+constant.character.escape.strings
+constant.other.placeholder.strings
+invalid.illegal.placeholder.c
+invalid.illegal.unknown-escape.strings
+punctuation.definition.comment.strings
+punctuation.definition.string.begin.strings
+punctuation.definition.string.end.strings
+string.quoted.double.strings

@@ -1,0 +1,14 @@
+RELEASE_NOTES
+=============
+
+constant.other.bundle-name.release-notes
+constant.other.committer-name.release-notes
+keyword.other.release-notes
+markup.underline.link
+meta.separator.release-notes
+meta.ticket.release-notes
+meta.toc-list.release-notes
+meta.word.camel-case
+punctuation.definition.keyword.release-notes
+punctuation.definition.separator.release-notes
+storage.type.ticket.release-notes

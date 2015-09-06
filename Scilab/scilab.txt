@@ -1,0 +1,12 @@
+SCILAB
+======
+
+comment.line.double-slash.scilab
+constant.character.escape.scilab
+constant.numeric.scilab
+entity.name.function.scilab
+keyword.control.scilab
+punctuation.separator.continuation.scilab
+string.quoted.double.scilab
+string.quoted.single.scilab
+support.constant.scilab

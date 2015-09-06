@@ -1,0 +1,8 @@
+MULTIMARKDOWN
+=============
+
+keyword.other.multimarkdown
+meta.content.multimarkdown
+meta.header.multimarkdown
+punctuation.separator.key-value.multimarkdown
+string.unquoted.multimarkdown

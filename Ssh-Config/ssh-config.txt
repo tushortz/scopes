@@ -1,0 +1,10 @@
+SSH-CONFIG
+==========
+
+comment.line.number-sign.ssh-config
+constant.numeric.ssh-config
+entity.name.section.ssh-config
+keyword.other.ssh-config
+meta.toc-list.ssh-config
+punctuation.definition.comment.ssh-config
+storage.type.ssh-config

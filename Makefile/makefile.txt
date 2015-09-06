@@ -1,0 +1,11 @@
+MAKEFILE
+========
+
+comment.line.number-sign.makefile
+entity.name.function.makefile
+keyword.control.makefile
+meta.function.makefile
+punctuation.definition.comment.makefile
+punctuation.separator.continuation.makefile
+string.interpolated.backtick.makefile
+variable.other.makefile

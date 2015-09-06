@@ -1,0 +1,11 @@
+MOD_PERL
+========
+
+entity.name.tag.apache-config
+meta.perl-section.apache-config.mod_perl
+meta.tag.apache-config
+mod_perl
+punctuation.definition.comment.mod_perl
+punctuation.definition.tag.apache-config
+support.constant.apache-config.mod_perl
+support.constant.apache-config.mod_perl_1.mod_perl

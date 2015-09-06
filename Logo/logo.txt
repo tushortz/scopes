@@ -1,0 +1,11 @@
+LOGO
+====
+
+comment.line.semicolon.logo
+entity.name.function.logo
+keyword.control.logo
+keyword.other.logo
+punctuation.definition.comment.logo
+punctuation.definition.variable.logo
+string.other.word.logo
+variable.parameter.logo

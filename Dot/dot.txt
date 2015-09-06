@@ -1,0 +1,14 @@
+DOT
+===
+
+comment.line.double-slash.dot
+comment.line.number-sign.dot
+constant.character.escape.dot
+punctuation.definition.comment.dot
+punctuation.definition.string.begin.dot
+punctuation.definition.string.end.dot
+storage.type.dot
+string.quoted.double.dot
+support.constant.attribute.edge.dot
+support.constant.attribute.graph.dot
+support.constant.attribute.node.dot

@@ -1,0 +1,11 @@
+CM
+==
+
+comment.block.cm
+constant.character.escape.cm
+keyword.control.import.if.cm
+keyword.other.cm
+meta.directive.cm
+meta.preprocessor.cm
+punctuation.definition.comment.cm
+string.quoted.double.cm

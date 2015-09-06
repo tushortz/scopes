@@ -1,0 +1,17 @@
+BULLETIN_BOARD
+==============
+
+constant.other.alignment.bbcode
+constant.other.list-type.bbcode
+constant.other.named-color.bbcode
+constant.other.rgb-value.bbcode
+constant.other.smiley.bbcode
+invalid.illegal.expected-a-color.bbcode
+invalid.illegal.expected-a-size.bbcode
+invalid.illegal.expected-an-alignment.bbcode
+markup.underline.link.bbcode
+meta.link.image.bbcode
+meta.link.inline.bbcode
+meta.tag.bbcode
+punctuation.definition.constant.bbcode
+punctuation.definition.tag.bbcode

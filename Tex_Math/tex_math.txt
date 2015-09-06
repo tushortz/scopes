@@ -1,0 +1,13 @@
+TEX_MATH
+========
+
+constant.numeric.math.tex
+constant.other.general.math.tex
+constant.other.math.tex
+meta.function.sexpr.math.tex
+meta.placeholder.greek.math.tex
+punctuation.definition.constant.math.tex
+punctuation.definition.function.math.tex
+punctuation.section.embedded.begin.math.tex
+punctuation.section.embedded.end.math.tex
+support.function.sexpr.math.tex

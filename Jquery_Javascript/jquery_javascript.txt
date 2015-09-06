@@ -1,0 +1,16 @@
+JQUERY_JAVASCRIPT
+=================
+
+entity.name.tag.wildcard.css
+entity.other.attribute-name.class.css
+entity.other.attribute-name.id.css
+entity.other.attribute-name.pseudo-class.css
+meta.selector.css
+punctuation.definition.attribute-name.css
+punctuation.definition.selector.begin.js
+punctuation.definition.selector.end.js
+punctuation.section.class.js
+punctuation.section.function.js
+punctuation.section.scope.js
+support.class.js.jquery
+support.function.js.jquery

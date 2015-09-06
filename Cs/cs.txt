@@ -1,0 +1,16 @@
+CS
+==
+
+comment.block.c#
+comment.line.double-slash.c#
+constant.character.escape.c#
+constant.numeric.c#
+keyword.control.c#
+keyword.control.import.c#
+meta.preprocessor.c#
+punctuation.definition.comment.c#
+punctuation.definition.string.begin.c#
+punctuation.definition.string.end.c#
+storage.type.c#
+string.quoted.double.c#
+string.quoted.single.c#

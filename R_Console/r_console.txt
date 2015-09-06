@@ -1,0 +1,4 @@
+R_CONSOLE
+=========
+
+source.r.embedded.r-console

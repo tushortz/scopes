@@ -1,0 +1,12 @@
+LATEX_MEMOIR
+============
+
+meta.function.memoir-fbox.latex
+meta.function.memoir-verbatim.latex
+punctuation.definition.arguments.begin.latex
+punctuation.definition.arguments.end.latex
+punctuation.definition.function.latex
+punctuation.definition.function.tex
+support.function.be.latex
+support.function.general.tex
+variable.parameter.function.latex

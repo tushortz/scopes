@@ -1,0 +1,9 @@
+CAMLP4
+======
+
+keyword.other.camlp4.ocaml
+meta.camlp4-stream.element.ocaml
+meta.camlp4-stream.ocaml
+punctuation.definition.camlp4-stream.ocaml
+punctuation.definition.camlp4.simple-element.ocaml
+punctuation.separator.camlp4.ocaml

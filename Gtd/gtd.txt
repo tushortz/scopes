@@ -1,0 +1,10 @@
+GTD
+===
+
+comment.line.gtd
+constant.language.gtd
+entity.name.tag.gtd
+markup.other.pagename
+string.unquoted.gtd
+support.class.exception.gtd
+variable.language.gtd

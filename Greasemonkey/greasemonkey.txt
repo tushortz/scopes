@@ -1,0 +1,10 @@
+GREASEMONKEY
+============
+
+keyword.other.greasemonkey
+meta.directive.nonstandard.greasemonkey
+meta.directive.standard.greasemonkey
+meta.header.greasemonkey
+string.unquoted.greasemonkey
+support.class.greasemonkey
+support.function.greasemonkey

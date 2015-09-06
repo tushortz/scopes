@@ -1,0 +1,13 @@
+PROLOG
+======
+
+comment.line.percent.prolog
+constant.character.escape.prolog
+constant.character.escape.quote.prolog
+constant.other.symbol.prolog
+keyword.operator.definition.prolog
+punctuation.definition.comment.prolog
+punctuation.definition.string.begin.prolog
+punctuation.definition.string.end.prolog
+string.quoted.single.prolog
+variable.other.prolog

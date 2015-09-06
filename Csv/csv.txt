@@ -1,0 +1,10 @@
+CSV
+===
+
+constant.character.escape.straight-quote.csv
+meta.tabular.row.csv
+meta.tabular.row.header.csv
+meta.tabular.table.csv
+punctuation.definition.field.csv
+punctuation.separator.table.row.csv
+punctuation.separator.tabular.field.csv

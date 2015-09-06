@@ -1,0 +1,9 @@
+INSTALLER_DISTRIBUTION_SCRIPT
+=============================
+
+meta.tag.xml
+punctuation.definition.tag.xml
+source.js.embedded.apple-dist
+support.class.apple-dist
+support.function.apple-dist
+support.variable.apple-dist

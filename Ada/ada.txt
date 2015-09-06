@@ -1,0 +1,11 @@
+ADA
+===
+
+comment.line.double-dash.ada
+constant.numeric.ada
+invalid.illegal.lf-in-string.ada
+keyword.control.ada
+punctuation.definition.comment.ada
+punctuation.definition.string.begin.ada
+punctuation.definition.string.end.ada
+string.quoted.double.ada
