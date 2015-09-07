@@ -6,15 +6,19 @@ comment.line.percentage.matlab
 constant.character.escape.matlab
 constant.language.boolean.matlab
 constant.language.matlab
+constant.numeric.matlab
 invalid.deprecated.function.matlab
 invalid.deprecated.obsolete.function.control.matlab
 keyword.control.matlab
+keyword.mathematics.matlab
 keyword.operator.logical.matlab
 keyword.other.commands.matlab
 keyword.other.matlab
+meta.parens.matlab
 meta.scope.expression.matlab
 meta.scope.logical-expression.matlab
 meta.scope.parens.matlab
+meta.variable.other.valid.matlab
 punctuation.definition.comment.matlab
 punctuation.definition.string.begin.matlab
 punctuation.definition.string.end.matlab
@@ -49,5 +53,7 @@ support.function.statistics.models.matlab
 support.function.statistics.tests.matlab
 support.function.strings.matlab
 support.function.time.matlab
+support.graphics.matlab
+support.toolbox.signal-processing.matlab
 support.variable.matlab
 variable.other.transpose.matlab
