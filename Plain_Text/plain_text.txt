@@ -4,4 +4,5 @@ PLAIN_TEXT
 meta.bullet-point.light
 meta.bullet-point.star
 meta.bullet-point.strong
+meta.paragraph.text
 punctuation.definition.item.text
