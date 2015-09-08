@@ -8,9 +8,11 @@ keyword.other.usage.rd
 markup.underline.link.rd
 meta.author.rd
 meta.examples.rd
+meta.group.braces.tex
 meta.section.rd
 meta.usage.rd
 punctuation.definition.arguments.begin.rd
 punctuation.definition.arguments.end.rd
 punctuation.definition.function.rd
 punctuation.definition.link.rd
+text.tex.latex.rd
