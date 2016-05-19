@@ -24,6 +24,9 @@ keyword.operator.logical.java
 keyword.other.class-fns.java
 keyword.other.documentation.javadoc.java
 keyword.other.documentation.javadoc.link.java
+meta.assignment.rhs.java
+meta.class.body.java meta.method.java
+meta.class.java meta.class.body.java
 meta.definition.class.extends.java
 meta.definition.class.implements.java
 meta.definition.class.java
@@ -32,10 +35,14 @@ meta.definition.method.java
 meta.definition.param-list.java
 meta.definition.throws.java
 meta.import.java
+meta.method.body.java
+meta.method.body.java meta.assignment.rhs.java
+meta.method.java
 meta.package.java
 punctuation.definition.comment.java
 punctuation.definition.string.begin.java
 punctuation.definition.string.end.java
+source.java meta.class.java
 storage.modifier.access-control.java
 storage.modifier.java
 storage.type.java
